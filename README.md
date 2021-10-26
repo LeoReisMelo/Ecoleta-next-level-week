@@ -19,8 +19,6 @@ execute yarn start ou npm start na raiz da pasta
 
 ## 📝 Informações
 
-Esse projeto conta apenas com a aplicação **frontend**
-
 ## 💻 Tecnologias utilizadas
 
 ° [ReactJS](https://pt-br.reactjs.org/)<br/>
